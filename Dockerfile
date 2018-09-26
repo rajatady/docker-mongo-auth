@@ -1,6 +1,6 @@
-FROM mongo
+FROM mongo:3
 
-MAINTAINER <Aashrey Sharma> aashreysh@gmail.com
+MAINTAINER <Kumar Divya Rajat> rajat@reduxpress.in
 
 // Auth Configuration. Modify as needed. 
 // These environment variables can also be specified through command line or docker-compose configuration
